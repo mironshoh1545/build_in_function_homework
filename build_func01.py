@@ -3,3 +3,7 @@
 # Find the absolute value of a "number" and assign to  "answer" 
 
 # Print the answer
+
+number = -8
+answer = abs(number)
+print(answer)
