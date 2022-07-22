@@ -3,3 +3,5 @@
 
 def build_func03(n):
     return 3 * (n + 1) ** 2
+n = 3.5
+print(build_func03(n))
